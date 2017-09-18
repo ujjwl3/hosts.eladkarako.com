@@ -803,11 +803,15 @@ ynet.co.il/*/popup_msg_block.jpg
 youporn.com/*/ht.js
 youtube.com$beacon
 youtube.com*adunit
+youtube.com/*/lazy*.js
 youtube.com/*/log_interaction
+youtube.com/*/tampering.js
 youtube.com/*lazy*js
 youtube.com/*pagead-id.js
+youtube.com/*spf
 youtube.com/annotation
 youtube.com/api/stats
+youtube.com/error_204
 youtube.com/feed_change
 youtube.com/feed_change_ajax
 youtube.com/get_endscreen
