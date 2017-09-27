@@ -169,6 +169,7 @@
 /essb_compiled
 /extbanners
 /facebook-embed.js
+/fb.php
 /flashClick.js
 /fuck*.js
 /fuckAdblock.js
@@ -460,6 +461,7 @@ facebook.com/plugins/likebox.php
 facebook.com/taboola
 facebook.com/tr
 facebook.com/tr*PageView
+facebook.net/*/fbevents.js
 facebook.net/*/like.php$third-party
 facebook.net/*/sdk.js
 filehippo.com/*px.js

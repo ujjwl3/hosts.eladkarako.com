@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-09-18T16:45:30.000Z+00:00 UTC
-! Version:        20170918164530000
+! Last modified:  2017-09-25T21:10:30.000Z+00:00 UTC
+! Version:        20170925211030000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          823
+! Rules:          825
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -180,6 +180,7 @@
 /essb_compiled
 /extbanners
 /facebook-embed.js
+/fb.php
 /flashClick.js
 /fuck*.js
 /fuckAdblock.js
@@ -471,6 +472,7 @@ facebook.com/plugins/likebox.php
 facebook.com/taboola
 facebook.com/tr
 facebook.com/tr*PageView
+facebook.net/*/fbevents.js
 facebook.net/*/like.php$third-party
 facebook.net/*/sdk.js
 filehippo.com/*px.js
