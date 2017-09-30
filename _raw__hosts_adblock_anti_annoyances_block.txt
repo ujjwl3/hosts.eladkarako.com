@@ -105,6 +105,7 @@
 /ads^
 /adsbygoogle
 /adsbygoogle.js
+/adsid/
 /adsrvmedia
 /adv
 /adver
@@ -345,6 +346,7 @@ adrotate
 ads.
 ads.js
 ads.min.js
+adservice.google
 advert
 advplaces
 adzerk
@@ -497,11 +499,13 @@ google.com/*/streamwidgets
 google.com/*view=ad
 google.com/aclk
 google.com/ads
+google.com/ads/
 google.com/analytics/web/inpage/pub/inpage.js
 google.com/appserve/security-bugs
 google.com/fdfe/log
 google.com/js/bg/
 google.com/log
+google.com/pagead/
 google.com/pagead/drt
 google.com/ping
 google.com/tbproxy
