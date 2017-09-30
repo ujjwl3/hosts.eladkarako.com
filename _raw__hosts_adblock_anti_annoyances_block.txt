@@ -223,6 +223,7 @@
 /oexchange
 /ora_code.js
 /ora_code_docs.js
+/packcpm.php
 /pagead
 /ping.js
 /pinit.js
@@ -450,6 +451,7 @@ exoclick
 exosrv
 f.nanafiles.co.il/Common/Images/pixel.gif
 facebook.com/*/like.php$third-party
+facebook.com/*/plugins/page.php
 facebook.com/*/sdk.js
 facebook.com/RDXSports
 facebook.com/babylonsoftwareltd

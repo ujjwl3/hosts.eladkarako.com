@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-09-25T21:10:30.000Z+00:00 UTC
-! Version:        20170925211030000
+! Last modified:  2017-09-29T23:58:10.000Z+00:00 UTC
+! Version:        20170929235810000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          825
+! Rules:          827
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -234,6 +234,7 @@
 /oexchange
 /ora_code.js
 /ora_code_docs.js
+/packcpm.php
 /pagead
 /ping.js
 /pinit.js
@@ -461,6 +462,7 @@ exoclick
 exosrv
 f.nanafiles.co.il/Common/Images/pixel.gif
 facebook.com/*/like.php$third-party
+facebook.com/*/plugins/page.php
 facebook.com/*/sdk.js
 facebook.com/RDXSports
 facebook.com/babylonsoftwareltd
